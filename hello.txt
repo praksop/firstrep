@@ -1,1 +1,2 @@
 My name is Sophie. I finished my BSc in molecular biology and am about to start graduate school in Biochemistry. I have some experience with transformer models, which was my first machine learning project. Nevertheless, I often didn't know what I was doing and my code hygiene was terrible. 
+I hope that this course will teach me the fundamentals of data science and machine learning, so that I won't have a big mess on my computer in my future projects. 
